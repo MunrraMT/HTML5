@@ -9,22 +9,36 @@
 <body>
 
     <h2>Teste de Tabela</h2>
-    <table border="5">
+    <table border="2" width="100%">
         <tr>
             <th>AA</th>
             <th>BB</th>
-            <th>CC</th>
+            <th colspan="2">CC</th>
         </tr>
         <tr>
             <td>aaaaaa</td>
             <td>bbbbbb</td>
-            <td>cccccc</td>
-            <td>dddddd</td>
+            <th><img src="./imagens/github.jpg" alt="github" width="200"></th>
+            <th><a href="#">Comprar</a></th>
         </tr>
         <tr>
             <td>111111</td>
             <td>222222</td>
-            <td>333333</td>
+            <td colspan="2">333333</td>
+        </tr>
+        <tr>
+            <td rowspan="3">Desconto</td>
+            <th colspan="3">Cupom 1 -R$10</th>
+        </tr>
+        <tr>
+            <th colspan="3">Cupom 2 -R$10</th>
+        </tr>
+        <tr>
+            <th colspan="3">Cupom 3 -R$10</th>
+        </tr>
+        <tr>
+            <th>Total</th>
+            <th colspan="3">R$ 100,00</th>
         </tr>
     </table>
 
