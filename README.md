@@ -1,9 +1,9 @@
 # Curso_HTML5
 ## Udemy - Desenvolvimento Web Completo 2019 - 20 cursos + 20 projetos 
-https://www.udemy.com/course/web-completo/
+## https://www.udemy.com/course/web-completo/
 
 ### Seção 03: HTML5
-#### Projetos:
+### Projetos:
 
 Projeto 01 - Para ver o site, clique [AQUI](https://github.com/MunrraMT/Aprendendo_CSS3) para ver o GitHUB clique [AQUI](https://github.com/MunrraMT/Aprendendo_CSS3).
 
