@@ -9,4 +9,4 @@ Projeto 01 - Para ver o site, clique [AQUI](https://munrramt.github.io/HTML5/Pro
 
 
 ### Desenvolvido por André Rodrigues.
-### email de contato: andre_santos_t@hotmail.com
+### email de contato: dev-asantos@outlook.com
